@@ -1,0 +1,2 @@
+class CautItem < ApplicationRecord
+end
